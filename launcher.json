@@ -1,9 +1,9 @@
 {
   "launcher_version": "1.1",
-  "launcher_update_url": "https://https://1maanx.github.io/tlbb/NewLaunch.7z",
+  "launcher_update_url": "https://1maanx.github.io/tlbb/NewLaunch.7z",
   "launcher_hash_sha1": "d3b07384d113edec49eaa6238ad5ff00",
 
-  "listserver": "https://https://1maanx.github.io/tlbb/LoginServer.txt",
+  "listserver": "https://1maanx.github.io/tlbb/LoginServer.txt",
 
   "links": {
     "home": "https://mygame.com",
@@ -55,3 +55,4 @@
     }
   }
 }
+
