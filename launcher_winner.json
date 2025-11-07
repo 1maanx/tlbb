@@ -36,8 +36,8 @@
 
   "modules": {
     "core": {
-      "version": "1.0.0.2",
-      "hash_md5": "2fd2b0fe9c98772c73166ef9105ce985",
+      "version": "1.0.0.3",
+      "hash_md5": "2f334665ff72fc521856759a9ebffb30",
       "update_url": "https://1maanx.github.io/tlbb/update_core_winner.zip"
     }
   }
