@@ -43,15 +43,5 @@
   ],
 
   "modules": {
-    "core": {
-      "version": "1.0.0.1",
-      "hash_md5": "ec744fb6192f17ed30a1e7c7cbc9d0bf",
-      "update_url": "https://1maanx.github.io/tlbb/kd/update_core.zip"
-    },
-	"full_data": {
-      "version": "1.0.0.1",
-      "hash_md5": "44ff7461d2d00fddae64f5ab88784442",
-      "update_url": "http://tlxua.tlbbdb.com/kd/full_data.zip"
-    }
   }
 }
